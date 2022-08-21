@@ -148,7 +148,7 @@ html {
     position: relative;
     margin-top: 46px;
     padding-top: 50%;
-    background: url(/assets/img/chicago.jpg) top center / cover no-repeat;
+    background: url(../img/chicago.jpg) top center / cover no-repeat;
 }
 
 #header .mobile-menu-btn {
@@ -196,6 +196,7 @@ html {
 #slider .text_discription {
     margin-top: 25px;
     font-size: 15px;
+    text-shadow: 0 0 1px #000;
 }
 
 #content {}
